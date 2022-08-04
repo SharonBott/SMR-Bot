@@ -20,7 +20,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/jairgonzales3/BotsitoOficial
-> cd BotGia
+> cd BotsitoOficial
 > yarn install 
 > npm install
 > npm update
