@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['51955095498', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖', true],
-  ['51933348947', '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖(secundario)', true],
+  ['+5491168547537', 'SMR BOT', true],
+  ['+5491168547537', 'SMR BOT(secundario)', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,11 +63,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.author = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.packname = 'SMR BOT'
+global.author = 'SMR BOT'
 
-global.wm = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
-global.igfg = '@𝐟𝐟𝐱𝐫𝐲𝐮.𝟏𝟖'
+global.wm = 'SMR BOT'
+global.igfg = 'SMR BOT'
+global.wm = 'SMR BOT'
+global.igfg = 'SMR BOT'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
